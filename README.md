@@ -5,7 +5,7 @@
 
 # Features
 - Improve quality of learning by increasing performance to share notes and clear visibility of the board.
-- Improve the way learning is performed online by multiple institution
+- Improve the way learning is performed online by multiple institutions
 - Easy to understand things written on the teacher's board
 
 
