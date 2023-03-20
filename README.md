@@ -1,6 +1,13 @@
 # Realtime collaborative canvas board
 
-![collaborative-canvas-board](https://raw.githubusercontent.com/anandsimmy/collaborative-canvas-board/main/ui/collaborative-canvas.gif)
+![collaborative-canvas-board](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTg1ZjY2ZWVmODRiODJiMWZiYmM3YmNlNTQxZDYzNzRmYjhhMjI3YyZjdD1n/1zdQSrxoOis9GqiydT/giphy.gif)
+
+
+# Features
+- Improve quality of learning by increasing performance to share notes and clear visibility of the board.
+- Improve the way learning is performed online by multiple institution
+- Easy to understand things written on the teacher's board
+
 
 To run in development mode:
 
